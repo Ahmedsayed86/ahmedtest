@@ -1,1 +1,3 @@
 this is file B 
+this change in file B
+add new file 
